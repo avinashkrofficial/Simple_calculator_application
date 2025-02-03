@@ -1,4 +1,6 @@
-# Features
+# Simple Calculator
+
+## Features
 
 - Perform basic arithmetic operations:
      - Addition
