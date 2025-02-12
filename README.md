@@ -8,7 +8,7 @@
      - Multiplication
      - Division
 - Easy-to-use graphical interface
-- Handles invalid inputs gracefully (e.g., division by zero)
+- Handles invalid inputs gracefully (e.g., division by zero).
 
 ## Installation
 
