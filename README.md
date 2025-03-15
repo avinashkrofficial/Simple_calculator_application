@@ -6,7 +6,7 @@
      - Addition
      - Subtraction
      - Multiplication
-     - Division
+     - Division.
 - Easy-to-use graphical interface
 - Handles invalid inputs gracefully (e.g., division by zero).
 
